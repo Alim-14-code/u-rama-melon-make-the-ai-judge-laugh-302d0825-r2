@@ -1,0 +1,1 @@
+At standup we all say 'no blockers' while the build is red, the deploy is stuck, and the client has been on hold since Tuesday.
